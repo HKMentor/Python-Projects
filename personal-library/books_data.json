@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Kahi Ankahi",
+        "author": "Hooria Khan",
+        "year": "2022",
+        "genre": "kahi ankhi",
+        "read": true
+    },
+    {
+        "title": "hum sath sath hain",
+        "author": "salman khan",
+        "year": "2002",
+        "genre": "hsjjk",
+        "read": false
+    }
+]
